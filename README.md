@@ -79,8 +79,8 @@ My favourite food is probably fruit (<em>I like most fruit but I can't choose!</
   <li>I have the memory of a goldfish
 </ul>
 
-<p id="purple">I speak English and French
-   <img src="http://o.aolcdn.com/hss/storage/midas/657014e6f93dfa1fac1c42b9b750fade/203403773/1cab.jpg" alt="crab with kitchen knife">
+<p id="purple">I speak English and French.<br>
+   <img src="http://o.aolcdn.com/hss/storage/midas/657014e6f93dfa1fac1c42b9b750fade/203403773/1cab.jpg" alt="crab with kitchen knife"><br>
 When I'm not at school I take piano lessons, animation/art classes, spend time online (instagram, pinterest, snapchat, etc...) as well as communicate with my friends and family, draw and do my makeup.</p>
 
 <p id="red">What kind of bagel can fly? A plain bagel.
